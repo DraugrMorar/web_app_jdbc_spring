@@ -1,0 +1,6 @@
+radnaeva/webapp/service/TestBean.class
+radnaeva/webapp/config/SpringConfig.class
+radnaeva/webapp/dao/UserDao.class
+radnaeva/webapp/service/UserService.class
+radnaeva/webapp/controller/UserController.class
+radnaeva/webapp/TestSpring.class
